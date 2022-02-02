@@ -11,6 +11,7 @@
 *.jfif
 *.jfi
 *.png
+*.zip
 
 # JPEG 2000
 *.jp2
@@ -51,11 +52,11 @@
 *.svg
 *.svgz
 
-# Portable Document Format
-*.pdf
 
 # X BitMap
 *.xbm
+*.7z
+*.zip
 
 # BMP
 *.bmp
@@ -318,3 +319,4 @@ Thumbs.db
 
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all,python,jupyternotebooks,images
+/imagem_teste.7z
