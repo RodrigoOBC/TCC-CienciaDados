@@ -55,6 +55,8 @@
 
 # X BitMap
 *.xbm
+*.7z
+*.zip
 
 # BMP
 *.bmp
